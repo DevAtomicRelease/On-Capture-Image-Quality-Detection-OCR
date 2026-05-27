@@ -61,10 +61,10 @@
     }
   },
   "latency": {
-    "p50": 98.21,
-    "p95": 150.14,
-    "max": 206.36,
-    "mean": 90.53
+    "p50": 103.98,
+    "p95": 155.27,
+    "max": 204.0,
+    "mean": 93.84
   },
   "misclassified_count": 64,
   "misclassified": [
