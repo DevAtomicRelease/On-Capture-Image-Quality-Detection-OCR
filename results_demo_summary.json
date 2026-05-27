@@ -1,0 +1,262 @@
+{
+  "confusion_matrix": {
+    "full_matrix": {
+      "usable": {
+        "borderline": 13,
+        "usable": 165,
+        "retake": 1
+      },
+      "borderline": {
+        "usable": 24,
+        "borderline": 11,
+        "retake": 3
+      },
+      "retake": {
+        "usable": 26,
+        "retake": 35,
+        "borderline": 21
+      }
+    },
+    "binary": {
+      "true_positive": 165,
+      "true_negative": 70,
+      "false_positive_accept": 50,
+      "false_negative_reject": 14
+    },
+    "false_reject_rate": 0.0782,
+    "false_accept_rate": 0.4167,
+    "accuracy": 0.786,
+    "total_images": 299
+  },
+  "per_failure_mode": {
+    "defocus": {
+      "total": 38,
+      "detected": 18,
+      "missed": 20,
+      "detection_rate": 0.4737
+    },
+    "glare": {
+      "total": 9,
+      "detected": 8,
+      "missed": 1,
+      "detection_rate": 0.8889
+    },
+    "insufficient_lighting": {
+      "total": 10,
+      "detected": 10,
+      "missed": 0,
+      "detection_rate": 1.0
+    },
+    "motion_blur": {
+      "total": 43,
+      "detected": 24,
+      "missed": 19,
+      "detection_rate": 0.5581
+    },
+    "partial_framing": {
+      "total": 20,
+      "detected": 10,
+      "missed": 10,
+      "detection_rate": 0.5
+    }
+  },
+  "latency": {
+    "p50": 87.69,
+    "p95": 134.8,
+    "max": 193.73,
+    "mean": 78.25
+  },
+  "misclassified_count": 64,
+  "misclassified": [
+    {
+      "filename": "IMG-20260526-WA0000.jpg",
+      "predicted": "borderline",
+      "ground_truth": "usable",
+      "reason": "image may be slightly blurry",
+      "failure_mode": "none",
+      "signals": {
+        "laplacian_var": 557.57,
+        "laplacian_p95": 1625.79,
+        "tenengrad": 30.35,
+        "fft_hf_ratio": 0.002974,
+        "fft_asymmetry": 0.4207,
+        "wavelet_hh_energy": 21.67,
+        "glare_ratio": 0.0,
+        "mean_brightness": 155.59,
+        "contrast": 52.68,
+        "border_content_ratio": 0.0885
+      }
+    },
+    {
+      "filename": "IMG-20260526-WA0003.jpg",
+      "predicted": "borderline",
+      "ground_truth": "usable",
+      "reason": "image may be slightly blurry",
+      "failure_mode": "none",
+      "signals": {
+        "laplacian_var": 603.23,
+        "laplacian_p95": 1145.43,
+        "tenengrad": 30.68,
+        "fft_hf_ratio": 0.003151,
+        "fft_asymmetry": 1.3169,
+        "wavelet_hh_energy": 17.09,
+        "glare_ratio": 0.0,
+        "mean_brightness": 176.48,
+        "contrast": 46.78,
+        "border_content_ratio": 0.1521
+      }
+    },
+    {
+      "filename": "IMG-20260526-WA0143.jpg",
+      "predicted": "usable",
+      "ground_truth": "borderline",
+      "reason": "image is acceptable",
+      "failure_mode": "defocus",
+      "signals": {
+        "laplacian_var": 1385.4,
+        "laplacian_p95": 3463.5,
+        "tenengrad": 61.05,
+        "fft_hf_ratio": 0.01,
+        "fft_asymmetry": 0.0,
+        "wavelet_hh_energy": 41.56,
+        "glare_ratio": 0.0001,
+        "mean_brightness": 142.58,
+        "contrast": 62.6,
+        "border_content_ratio": 0.1635
+      }
+    },
+    {
+      "filename": "IMG-20260526-WA0148.jpg",
+      "predicted": "usable",
+      "ground_truth": "borderline",
+      "reason": "image is acceptable",
+      "failure_mode": "defocus",
+      "signals": {
+        "laplacian_var": 1495.98,
+        "laplacian_p95": 3739.95,
+        "tenengrad": 62.24,
+        "fft_hf_ratio": 0.01,
+        "fft_asymmetry": 0.0,
+        "wavelet_hh_energy": 44.88,
+        "glare_ratio": 0.0002,
+        "mean_brightness": 143.52,
+        "contrast": 64.77,
+        "border_content_ratio": 0.2107
+      }
+    },
+    {
+      "filename": "IMG-20260526-WA0173.jpg",
+      "predicted": "usable",
+      "ground_truth": "borderline",
+      "reason": "image is acceptable",
+      "failure_mode": "defocus",
+      "signals": {
+        "laplacian_var": 1331.22,
+        "laplacian_p95": 3328.05,
+        "tenengrad": 61.77,
+        "fft_hf_ratio": 0.01,
+        "fft_asymmetry": 0.0,
+        "wavelet_hh_energy": 39.94,
+        "glare_ratio": 0.0103,
+        "mean_brightness": 146.51,
+        "contrast": 60.66,
+        "border_content_ratio": 0.2054
+      }
+    },
+    {
+      "filename": "IMG-20260526-WA0174.jpg",
+      "predicted": "usable",
+      "ground_truth": "borderline",
+      "reason": "image is acceptable",
+      "failure_mode": "defocus",
+      "signals": {
+        "laplacian_var": 1110.31,
+        "laplacian_p95": 1569.55,
+        "tenengrad": 59.72,
+        "fft_hf_ratio": 0.007527,
+        "fft_asymmetry": 0.4735,
+        "wavelet_hh_energy": 32.72,
+        "glare_ratio": 0.0007,
+        "mean_brightness": 148.51,
+        "contrast": 58.66,
+        "border_content_ratio": 0.1915
+      }
+    },
+    {
+      "filename": "IMG-20260526-WA0181.jpg",
+      "predicted": "borderline",
+      "ground_truth": "usable",
+      "reason": "image may be slightly blurry",
+      "failure_mode": "none",
+      "signals": {
+        "laplacian_var": 637.38,
+        "laplacian_p95": 1318.03,
+        "tenengrad": 33.54,
+        "fft_hf_ratio": 0.003944,
+        "fft_asymmetry": 7.0412,
+        "wavelet_hh_energy": 13.15,
+        "glare_ratio": 0.0003,
+        "mean_brightness": 166.5,
+        "contrast": 58.1,
+        "border_content_ratio": 0.1077
+      }
+    },
+    {
+      "filename": "IMG-20260526-WA0188.jpg",
+      "predicted": "usable",
+      "ground_truth": "borderline",
+      "reason": "image is acceptable",
+      "failure_mode": "defocus",
+      "signals": {
+        "laplacian_var": 505.06,
+        "laplacian_p95": 1107.02,
+        "tenengrad": 42.97,
+        "fft_hf_ratio": 0.005133,
+        "fft_asymmetry": 0.0673,
+        "wavelet_hh_energy": 16.39,
+        "glare_ratio": 0.0,
+        "mean_brightness": 156.35,
+        "contrast": 42.81,
+        "border_content_ratio": 0.2513
+      }
+    },
+    {
+      "filename": "IMG-20260526-WA0190.jpg",
+      "predicted": "usable",
+      "ground_truth": "borderline",
+      "reason": "image is acceptable",
+      "failure_mode": "defocus",
+      "signals": {
+        "laplacian_var": 555.15,
+        "laplacian_p95": 1093.12,
+        "tenengrad": 47.54,
+        "fft_hf_ratio": 0.004924,
+        "fft_asymmetry": 0.0922,
+        "wavelet_hh_energy": 17.76,
+        "glare_ratio": 0.0,
+        "mean_brightness": 174.49,
+        "contrast": 46.37,
+        "border_content_ratio": 0.3023
+      }
+    },
+    {
+      "filename": "IMG-20260526-WA0191.jpg",
+      "predicted": "usable",
+      "ground_truth": "borderline",
+      "reason": "image is acceptable",
+      "failure_mode": "defocus",
+      "signals": {
+        "laplacian_var": 622.09,
+        "laplacian_p95": 1357.48,
+        "tenengrad": 50.97,
+        "fft_hf_ratio": 0.004585,
+        "fft_asymmetry": 0.7048,
+        "wavelet_hh_energy": 21.51,
+        "glare_ratio": 0.0,
+        "mean_brightness": 171.93,
+        "contrast": 47.65,
+        "border_content_ratio": 0.2853
+      }
+    }
+  ]
+}

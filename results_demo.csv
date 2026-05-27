@@ -1,0 +1,300 @@
+filename,verdict,ground_truth,failure_mode,reason,latency_ms,border_content_ratio,contrast,fft_asymmetry,fft_hf_ratio,glare_ratio,laplacian_p95,laplacian_var,mean_brightness,tenengrad,wavelet_hh_energy
+IMG-20260526-WA0000.jpg,borderline,usable,none,image may be slightly blurry,59.82,0.0885,52.68,0.4207,0.002974,0.0,1625.79,557.57,155.59,30.35,21.67
+IMG-20260526-WA0001.jpg,usable,usable,none,image is acceptable,36.13,0.1834,31.21,2.6221,0.003529,0.4019,3154.57,1710.82,225.25,53.77,59.62
+IMG-20260526-WA0002.jpg,usable,usable,none,image is acceptable,27.82,0.3109,52.04,0.0,0.01,0.31,3526.25,1410.5,216.28,55.33,42.31
+IMG-20260526-WA0003.jpg,borderline,usable,none,image may be slightly blurry,34.6,0.1521,46.78,1.3169,0.003151,0.0,1145.43,603.23,176.48,30.68,17.09
+IMG-20260526-WA0004.jpg,usable,usable,none,image is acceptable,37.72,0.3956,71.06,0.1104,0.003938,0.2065,1884.06,1092.3,178.44,53.3,29.01
+IMG-20260526-WA0005.jpg,usable,usable,none,image is acceptable,30.28,0.1896,48.58,0.0,0.01,0.0441,6382.05,2552.82,160.13,66.25,76.58
+IMG-20260526-WA0006.jpg,usable,usable,none,image is acceptable,25.61,0.1416,27.69,0.0,0.01,0.2317,3878.4,1551.36,215.08,59.86,46.54
+IMG-20260526-WA0007.jpg,usable,usable,none,image is acceptable,35.06,0.1162,20.74,1.9188,0.003689,0.0,3014.72,1175.98,190.05,49.11,36.17
+IMG-20260526-WA0008.jpg,usable,usable,none,image is acceptable,30.43,0.1727,52.6,0.0,0.01,0.0414,6751.58,2700.63,179.4,66.97,81.02
+IMG-20260526-WA0010.jpg,usable,usable,none,image is acceptable,91.51,0.3054,49.45,0.0,0.01,0.0,6558.2,2623.28,132.64,81.89,78.7
+IMG-20260526-WA0011.jpg,usable,usable,none,image is acceptable,46.36,0.2435,33.47,0.9376,0.003493,0.0001,2162.76,1433.7,180.41,48.92,40.8
+IMG-20260526-WA0012.jpg,usable,usable,none,image is acceptable,22.56,0.1373,95.33,0.0,0.01,0.2964,3640.33,1456.13,159.89,57.25,43.68
+IMG-20260526-WA0013.jpg,usable,usable,none,image is acceptable,15.16,0.2692,53.29,0.0,0.01,0.2216,4275.98,1710.39,201.78,65.53,51.31
+IMG-20260526-WA0015.jpg,usable,usable,none,image is acceptable,100.51,0.142,59.96,7.8632,0.00604,0.0,1552.28,1053.33,158.7,47.47,26.7
+IMG-20260526-WA0079.jpg,usable,usable,none,image is acceptable,104.52,0.3273,47.55,0.0,0.01,0.0,6450.05,2580.02,123.94,84.15,77.4
+IMG-20260526-WA0080.jpg,usable,usable,none,image is acceptable,91.39,0.2826,44.73,0.0,0.01,0.0,6430.92,2572.37,126.84,81.61,77.17
+IMG-20260526-WA0081.jpg,usable,usable,none,image is acceptable,100.64,0.2876,49.76,0.0,0.01,0.0,6197.8,2479.12,130.21,83.62,74.37
+IMG-20260526-WA0082.jpg,usable,usable,none,image is acceptable,101.21,0.3007,46.18,0.0,0.01,0.0,6296.43,2518.57,127.73,81.09,75.56
+IMG-20260526-WA0083.jpg,usable,usable,none,image is acceptable,89.07,0.2838,45.21,0.0,0.01,0.0,6079.15,2431.66,129.06,79.67,72.95
+IMG-20260526-WA0084.jpg,usable,usable,none,image is acceptable,96.06,0.3675,50.29,0.0,0.01,0.0,6185.03,2474.01,133.67,83.92,74.22
+IMG-20260526-WA0085.jpg,usable,usable,none,image is acceptable,91.11,0.342,50.81,0.0,0.01,0.0,6565.0,2626.0,129.8,85.39,78.78
+IMG-20260526-WA0086.jpg,usable,usable,none,image is acceptable,95.8,0.3067,44.87,0.0,0.01,0.0,6692.7,2677.08,124.57,86.27,80.31
+IMG-20260526-WA0087.jpg,usable,usable,none,image is acceptable,90.35,0.3685,50.41,0.0,0.01,0.0,5665.75,2266.3,129.62,80.88,67.99
+IMG-20260526-WA0088.jpg,usable,usable,none,image is acceptable,90.29,0.3601,50.01,0.0,0.01,0.0,7034.6,2813.84,133.54,85.68,84.42
+IMG-20260526-WA0089.jpg,usable,usable,none,image is acceptable,91.17,0.3453,47.58,0.0,0.01,0.0,6562.17,2624.87,131.7,84.16,78.75
+IMG-20260526-WA0090.jpg,usable,usable,none,image is acceptable,96.47,0.3291,46.42,0.0,0.01,0.0,6916.02,2766.41,126.83,86.17,82.99
+IMG-20260526-WA0091.jpg,usable,usable,none,image is acceptable,92.55,0.2991,53.07,0.0,0.01,0.0,6194.48,2477.79,120.74,81.65,74.33
+IMG-20260526-WA0092.jpg,usable,usable,none,image is acceptable,91.21,0.311,48.54,0.0,0.01,0.0,6173.83,2469.53,134.65,82.19,74.09
+IMG-20260526-WA0093.jpg,usable,usable,none,image is acceptable,99.42,0.2884,44.43,0.0,0.01,0.0,6751.65,2700.66,121.82,84.48,81.02
+IMG-20260526-WA0094.jpg,usable,usable,none,image is acceptable,96.22,0.2697,50.72,0.0,0.01,0.0,5953.0,2381.2,124.18,81.74,71.44
+IMG-20260526-WA0095.jpg,usable,usable,none,image is acceptable,92.15,0.2979,45.98,0.0,0.01,0.0,5891.98,2356.79,129.45,79.35,70.7
+IMG-20260526-WA0096.jpg,usable,usable,none,image is acceptable,93.23,0.3019,46.6,0.0,0.01,0.0,6075.0,2430.0,125.84,80.68,72.9
+IMG-20260526-WA0097.jpg,usable,usable,none,image is acceptable,93.02,0.3172,46.41,0.0,0.01,0.0,5791.43,2316.57,130.18,79.15,69.5
+IMG-20260526-WA0098.jpg,usable,usable,none,image is acceptable,98.05,0.2047,37.92,2.8157,0.010119,0.0,2110.79,992.73,116.06,40.92,35.05
+IMG-20260526-WA0100.jpg,usable,usable,none,image is acceptable,99.44,0.1554,44.62,0.6424,0.009009,0.0,2615.45,1091.84,119.57,48.06,32.1
+IMG-20260526-WA0101.jpg,usable,usable,none,image is acceptable,97.4,0.244,45.43,0.0,0.01,0.0,5689.35,2275.74,125.66,73.22,68.27
+IMG-20260526-WA0103.jpg,usable,usable,none,image is acceptable,94.07,0.2601,54.67,0.0,0.01,0.0,4329.82,1731.93,129.16,67.28,51.96
+IMG-20260526-WA0104.jpg,usable,usable,none,image is acceptable,94.81,0.2885,51.53,0.0,0.01,0.0,6067.4,2426.96,133.11,74.68,72.81
+IMG-20260526-WA0105.jpg,usable,usable,none,image is acceptable,89.37,0.2462,50.12,0.0,0.01,0.0,3625.75,1450.3,127.28,60.39,43.51
+IMG-20260526-WA0106.jpg,usable,usable,none,image is acceptable,88.68,0.2293,34.72,0.0,0.01,0.0,3608.7,1443.48,114.27,55.79,43.3
+IMG-20260526-WA0107.jpg,usable,usable,none,image is acceptable,96.27,0.2707,49.28,0.0,0.01,0.0,7283.65,2913.46,126.42,81.63,87.4
+IMG-20260526-WA0108.jpg,usable,usable,none,image is acceptable,86.4,0.2708,46.89,0.0,0.01,0.0,4643.6,1857.44,129.23,67.81,55.72
+IMG-20260526-WA0109.jpg,usable,usable,none,image is acceptable,93.95,0.2849,46.97,0.0,0.01,0.0,6413.6,2565.44,128.58,76.97,76.96
+IMG-20260526-WA0110.jpg,usable,usable,none,image is acceptable,95.09,0.2816,49.43,0.0,0.01,0.0,5368.12,2147.25,128.22,71.96,64.42
+IMG-20260526-WA0111.jpg,usable,usable,none,image is acceptable,89.08,0.2649,50.21,0.0,0.01,0.0,4498.5,1799.4,131.53,67.58,53.98
+IMG-20260526-WA0112.jpg,usable,usable,none,image is acceptable,88.4,0.2493,50.72,0.0,0.01,0.0,3717.72,1487.09,130.58,61.93,44.61
+IMG-20260526-WA0114.jpg,usable,usable,none,image is acceptable,88.53,0.2209,41.59,0.0,0.01,0.0,5091.52,2036.61,125.95,71.89,61.1
+IMG-20260526-WA0115.jpg,usable,usable,none,image is acceptable,89.29,0.3022,49.37,0.0,0.01,0.0,4878.65,1951.46,128.79,78.74,58.54
+IMG-20260526-WA0117.jpg,usable,usable,none,image is acceptable,92.63,0.2913,50.4,0.0,0.01,0.0,6222.27,2488.91,130.75,82.58,74.67
+IMG-20260526-WA0118.jpg,usable,usable,none,image is acceptable,92.01,0.2802,47.62,0.0,0.01,0.0,5490.95,2196.38,129.37,77.97,65.89
+IMG-20260526-WA0119.jpg,usable,usable,none,image is acceptable,91.95,0.2787,49.92,0.0,0.01,0.0,4947.2,1978.88,127.08,80.58,59.37
+IMG-20260526-WA0121.jpg,usable,usable,none,image is acceptable,90.94,0.301,50.91,0.0,0.01,0.0,5077.57,2031.03,129.98,78.75,60.93
+IMG-20260526-WA0123.jpg,usable,usable,none,image is acceptable,96.04,0.2732,49.92,0.0,0.01,0.0,6132.47,2452.99,128.12,81.09,73.59
+IMG-20260526-WA0125.jpg,usable,usable,none,image is acceptable,96.49,0.2707,50.2,0.0,0.01,0.0,7256.35,2902.54,126.13,89.86,87.08
+IMG-20260526-WA0126.jpg,usable,usable,none,image is acceptable,91.58,0.257,48.77,0.0,0.01,0.0,6267.7,2507.08,124.76,83.4,75.21
+IMG-20260526-WA0127.jpg,usable,usable,none,image is acceptable,94.45,0.2742,49.63,0.0,0.01,0.0,6410.7,2564.28,128.46,83.52,76.93
+IMG-20260526-WA0128.jpg,usable,usable,none,image is acceptable,94.01,0.2787,47.02,0.0,0.01,0.0,4913.23,1965.29,128.68,73.35,58.96
+IMG-20260526-WA0129.jpg,usable,usable,none,image is acceptable,97.96,0.2403,47.52,0.0,0.01,0.0,6787.88,2715.15,128.08,83.28,81.45
+IMG-20260526-WA0130.jpg,usable,usable,none,image is acceptable,99.06,0.2562,50.65,0.0,0.01,0.0,7588.95,3035.58,126.32,90.73,91.07
+IMG-20260526-WA0131.jpg,usable,usable,none,image is acceptable,100.85,0.239,47.97,0.0,0.01,0.0,6710.92,2684.37,126.82,84.1,80.53
+IMG-20260526-WA0132.jpg,usable,usable,none,image is acceptable,115.82,0.2896,47.61,0.0,0.01,0.0,6732.9,2693.16,127.85,85.44,80.79
+IMG-20260526-WA0133.jpg,usable,usable,none,image is acceptable,89.67,0.2744,48.72,0.0,0.01,0.0,6290.12,2516.05,126.52,81.47,75.48
+IMG-20260526-WA0134.jpg,usable,usable,none,image is acceptable,99.92,0.287,48.67,0.0,0.01,0.0,6963.8,2785.52,123.21,87.07,83.57
+IMG-20260526-WA0135.jpg,usable,usable,none,image is acceptable,97.9,0.2583,48.81,0.0,0.01,0.0,6353.52,2541.41,122.89,84.46,76.24
+IMG-20260526-WA0136.jpg,usable,usable,none,image is acceptable,98.07,0.2968,49.7,0.0,0.01,0.0,6521.2,2608.48,126.69,83.62,78.25
+IMG-20260526-WA0137.jpg,usable,usable,none,image is acceptable,94.89,0.2784,48.82,0.0,0.01,0.0,6843.45,2737.38,121.21,86.53,82.12
+IMG-20260526-WA0138.jpg,usable,usable,none,image is acceptable,87.69,0.2668,47.28,0.0,0.01,0.0,5673.52,2269.41,124.27,79.84,68.08
+IMG-20260526-WA0139.jpg,usable,usable,none,image is acceptable,102.31,0.2674,50.6,0.0,0.01,0.0,7369.18,2947.67,127.28,89.57,88.43
+IMG-20260526-WA0140.jpg,usable,usable,none,image is acceptable,21.25,0.1257,57.49,0.0,0.01,0.0,6541.68,2616.67,158.48,66.48,78.5
+IMG-20260526-WA0141.jpg,usable,usable,none,image is acceptable,22.67,0.0931,62.64,0.0,0.01,0.0003,3693.32,1477.33,145.01,60.94,44.32
+IMG-20260526-WA0142.jpg,usable,usable,none,image is acceptable,22.67,0.2024,59.99,0.0,0.01,0.0001,3498.9,1399.56,148.69,59.72,41.99
+IMG-20260526-WA0143.jpg,usable,borderline,defocus,image is acceptable,21.47,0.1635,62.6,0.0,0.01,0.0001,3463.5,1385.4,142.58,61.05,41.56
+IMG-20260526-WA0144.jpg,usable,usable,none,image is acceptable,21.22,0.1416,62.89,0.0,0.01,0.0036,4131.58,1652.63,155.35,64.81,49.58
+IMG-20260526-WA0145.jpg,usable,usable,none,image is acceptable,23.09,0.236,63.95,0.0,0.01,0.0012,5174.65,2069.86,153.45,72.68,62.1
+IMG-20260526-WA0146.jpg,usable,usable,none,image is acceptable,21.12,0.2448,64.47,0.0,0.01,0.0001,4396.35,1758.54,143.57,64.88,52.76
+IMG-20260526-WA0147.jpg,usable,usable,none,image is acceptable,61.92,0.1601,60.93,0.0,0.01,0.0003,3856.6,1542.64,152.11,60.33,46.28
+IMG-20260526-WA0148.jpg,usable,borderline,defocus,image is acceptable,24.01,0.2107,64.77,0.0,0.01,0.0002,3739.95,1495.98,143.52,62.24,44.88
+IMG-20260526-WA0149.jpg,usable,usable,none,image is acceptable,21.93,0.2072,61.96,0.0,0.01,0.0005,4224.6,1689.84,149.28,66.68,50.7
+IMG-20260526-WA0150.jpg,usable,usable,none,image is acceptable,20.73,0.0684,64.65,0.0,0.01,0.0,4056.78,1622.71,136.16,59.95,48.68
+IMG-20260526-WA0151.jpg,usable,usable,none,image is acceptable,20.61,0.1069,66.16,0.0,0.01,0.0007,4947.5,1979.0,142.2,70.4,59.37
+IMG-20260526-WA0152.jpg,usable,usable,none,image is acceptable,19.48,0.2392,65.5,0.0,0.01,0.0005,4075.98,1630.39,144.22,64.5,48.91
+IMG-20260526-WA0153.jpg,usable,usable,none,image is acceptable,19.53,0.2394,66.04,0.0,0.01,0.0001,3537.6,1415.04,141.88,61.0,42.45
+IMG-20260526-WA0154.jpg,usable,usable,none,image is acceptable,20.71,0.1333,62.8,0.0,0.01,0.0002,3641.2,1456.48,146.39,59.84,43.69
+IMG-20260526-WA0155.jpg,usable,usable,none,image is acceptable,19.28,0.1746,60.55,0.0,0.01,0.0,3358.22,1343.29,145.18,55.65,40.3
+IMG-20260526-WA0156.jpg,usable,usable,none,image is acceptable,20.36,0.1847,67.34,0.0,0.01,0.0001,4109.48,1643.79,142.09,64.54,49.31
+IMG-20260526-WA0158.jpg,usable,usable,none,image is acceptable,21.3,0.1304,64.73,0.0,0.01,0.0005,4854.78,1941.91,143.92,71.64,58.26
+IMG-20260526-WA0159.jpg,usable,usable,none,image is acceptable,22.41,0.1946,62.3,0.0,0.01,0.0004,6226.02,2490.41,149.88,80.32,74.71
+IMG-20260526-WA0160.jpg,borderline,borderline,defocus,image may be slightly blurry,27.32,0.1499,57.03,1.8863,0.004724,0.0,728.48,474.59,149.82,35.67,4.96
+IMG-20260526-WA0161.jpg,usable,usable,none,image is acceptable,21.03,0.183,64.94,0.0,0.01,0.0027,8063.95,3225.58,153.34,80.74,96.77
+IMG-20260526-WA0162.jpg,usable,usable,none,image is acceptable,21.65,0.2237,55.53,0.0,0.01,0.0013,4126.38,1650.55,151.67,64.47,49.52
+IMG-20260526-WA0163.jpg,usable,usable,none,image is acceptable,24.71,0.1853,60.9,0.0,0.01,0.0,5341.15,2136.46,138.79,72.59,64.09
+IMG-20260526-WA0164.jpg,usable,usable,none,image is acceptable,25.71,0.193,56.81,0.0,0.01,0.0,4933.55,1973.42,149.05,69.37,59.2
+IMG-20260526-WA0173.jpg,usable,borderline,defocus,image is acceptable,22.31,0.2054,60.66,0.0,0.01,0.0103,3328.05,1331.22,146.51,61.77,39.94
+IMG-20260526-WA0174.jpg,usable,borderline,defocus,image is acceptable,32.57,0.1915,58.66,0.4735,0.007527,0.0007,1569.55,1110.31,148.51,59.72,32.72
+IMG-20260526-WA0175.jpg,usable,usable,none,image is acceptable,28.56,0.128,68.0,1.2261,0.008021,0.0004,1390.0,933.2,138.21,46.8,24.96
+IMG-20260526-WA0176.jpg,usable,usable,none,image is acceptable,19.94,0.1389,64.42,0.0,0.01,0.0033,4030.88,1612.35,142.93,55.47,48.37
+IMG-20260526-WA0177.jpg,usable,usable,none,image is acceptable,29.08,0.1378,66.67,1.2675,0.005261,0.0079,2246.94,1244.77,153.64,51.72,37.7
+IMG-20260526-WA0178.jpg,usable,usable,none,image is acceptable,25.51,0.1484,63.74,0.7092,0.005888,0.0,1990.6,1118.98,151.22,46.11,28.66
+IMG-20260526-WA0179.jpg,usable,usable,none,image is acceptable,26.64,0.0942,61.98,3.6359,0.004131,0.0,1673.44,983.07,156.5,44.18,27.78
+IMG-20260526-WA0180.jpg,usable,usable,none,image is acceptable,26.98,0.1388,62.64,0.7337,0.005957,0.0,1342.41,968.62,153.39,43.87,25.89
+IMG-20260526-WA0181.jpg,borderline,usable,none,image may be slightly blurry,25.47,0.1077,58.1,7.0412,0.003944,0.0003,1318.03,637.38,166.5,33.54,13.15
+IMG-20260526-WA0182.jpg,usable,usable,none,image is acceptable,19.93,0.2218,37.92,0.0,0.01,0.0,5780.95,2312.38,156.75,82.79,69.37
+IMG-20260526-WA0183.jpg,usable,usable,none,image is acceptable,21.9,0.2981,36.92,0.0,0.01,0.0,7372.62,2949.05,158.26,87.51,88.47
+IMG-20260526-WA0184.jpg,usable,usable,none,image is acceptable,22.28,0.311,41.18,0.0,0.01,0.0,6599.92,2639.97,151.63,97.8,79.2
+IMG-20260526-WA0185.jpg,usable,usable,none,image is acceptable,23.45,0.3162,43.74,0.0,0.01,0.0,8004.27,3201.71,157.56,103.11,96.05
+IMG-20260526-WA0188.jpg,usable,borderline,defocus,image is acceptable,26.03,0.2513,42.81,0.0673,0.005133,0.0,1107.02,505.06,156.35,42.97,16.39
+IMG-20260526-WA0189.jpg,borderline,borderline,defocus,image may be slightly blurry,21.93,0.2346,51.66,0.1589,0.002912,0.0,329.3,170.46,178.48,32.58,5.17
+IMG-20260526-WA0190.jpg,usable,borderline,defocus,image is acceptable,24.67,0.3023,46.37,0.0922,0.004924,0.0,1093.12,555.15,174.49,47.54,17.76
+IMG-20260526-WA0191.jpg,usable,borderline,defocus,image is acceptable,25.02,0.2853,47.65,0.7048,0.004585,0.0,1357.48,622.09,171.93,50.97,21.51
+IMG-20260526-WA0192.jpg,usable,borderline,defocus,image is acceptable,26.65,0.3262,42.98,0.2308,0.006111,0.0,1203.04,762.77,166.8,55.23,26.78
+IMG-20260526-WA0193.jpg,usable,usable,none,image is acceptable,26.84,0.2386,44.12,1.3387,0.005167,0.0,1767.9,1021.87,177.7,48.71,34.32
+IMG-20260526-WA0196.jpg,usable,usable,none,image is acceptable,14.81,0.2196,41.12,0.0,0.01,0.0077,4559.52,1823.81,194.8,57.77,54.71
+IMG-20260526-WA0197.jpg,usable,usable,none,image is acceptable,24.32,0.2053,30.38,0.278,0.002694,0.0242,1764.47,1098.35,219.72,37.41,38.89
+IMG-20260526-WA0198.jpg,usable,borderline,motion_blur,image is acceptable,22.48,0.1759,74.41,0.3254,0.004475,0.1257,1543.99,762.42,179.38,48.12,24.11
+IMG-20260526-WA0199.jpg,usable,usable,none,image is acceptable,9.69,0.1127,24.48,0.0,0.01,0.0,4995.65,1998.26,168.53,82.82,59.95
+IMG-20260526-WA0200.jpg,usable,usable,none,image is acceptable,20.97,0.2598,26.18,0.0,0.01,0.0,4234.15,1693.66,170.58,70.0,50.81
+IMG-20260526-WA0212.jpg,usable,borderline,motion_blur,image is acceptable,127.03,0.1613,24.06,0.0,0.01,0.0,5620.7,2248.28,180.09,61.85,67.45
+IMG-20260526-WA0214.jpg,usable,usable,none,image is acceptable,123.54,0.1358,27.98,0.0,0.01,0.0,12771.25,5108.5,180.35,81.18,153.25
+IMG-20260526-WA0215.jpg,usable,retake,motion_blur,image is acceptable,177.54,0.1624,31.23,0.8073,0.004064,0.0,1791.59,1000.21,154.14,49.62,46.08
+IMG-20260526-WA0216.jpg,borderline,borderline,defocus,dim lighting,125.89,0.0759,28.23,0.9854,0.012309,0.0,1002.45,334.99,44.8,27.54,11.59
+IMG-20260526-WA0217.jpg,usable,usable,none,image is acceptable,125.28,0.1231,38.12,0.0,0.01,0.0,5420.68,2168.27,150.24,57.17,65.05
+IMG-20260526-WA0218.jpg,retake,retake,glare,significant glare or overexposure,124.52,0.1557,24.03,1.7932,0.001646,0.7477,3149.78,1334.7,238.9,34.74,52.29
+IMG-20260526-WA0219.jpg,retake,retake,insufficient_lighting,image is blurry (out of focus or motion blur); insufficient lighting,101.79,0.0,1.31,1.0094,0.015676,0.0,3.08,2.53,4.1,2.76,0.11
+IMG-20260526-WA0220.jpg,retake,retake,insufficient_lighting,image is blurry (out of focus or motion blur); insufficient lighting,98.08,0.0,1.01,0.5062,0.012249,0.0,2.87,1.89,3.71,2.15,0.08
+IMG-20260526-WA0221.jpg,retake,retake,glare,significant glare or overexposure,116.16,0.1535,28.67,1.2798,0.000898,0.8328,1558.36,516.2,239.52,21.13,23.09
+IMG-20260526-WA0222.jpg,borderline,retake,glare,some glare detected,128.31,0.2064,34.09,0.1105,0.002486,0.4915,4504.32,1442.27,223.55,47.36,62.86
+IMG-20260526-WA0223.jpg,borderline,retake,motion_blur,image may be slightly blurry,158.05,0.1364,22.85,1.8601,0.003442,0.0,1062.54,594.31,153.12,42.52,23.31
+IMG-20260526-WA0224.jpg,usable,borderline,motion_blur,image is acceptable,122.37,0.1398,23.82,0.0209,0.01303,0.0,2421.56,1280.17,92.72,46.28,53.01
+IMG-20260526-WA0225.jpg,retake,retake,insufficient_lighting,image is blurry (out of focus or motion blur); insufficient lighting,25.04,0.0,1.38,1.3546,0.009208,0.0,1.33,1.04,4.78,1.95,0.04
+IMG-20260526-WA0226.jpg,usable,borderline,motion_blur,image is acceptable,115.39,0.1229,26.66,0.0,0.01,0.0,3767.33,1506.93,109.95,57.7,45.21
+IMG-20260526-WA0243.jpg,usable,retake,motion_blur,image is acceptable,134.77,0.201,38.68,0.4193,0.00539,0.0,861.96,390.09,142.02,40.58,14.31
+IMG-20260526-WA0245.jpg,usable,usable,none,image is acceptable,132.12,0.2651,39.16,0.1597,0.006922,0.0,2212.49,1442.77,151.01,54.83,51.72
+IMG-20260526-WA0246.jpg,borderline,usable,none,image may be slightly blurry,99.2,0.1151,22.58,0.4932,0.002579,0.0,901.74,620.34,164.36,39.13,11.26
+IMG-20260526-WA0248.jpg,borderline,usable,none,image may be slightly blurry,123.45,0.115,22.59,0.4954,0.002584,0.0,909.78,628.42,164.37,39.1,11.67
+IMG-20260526-WA0250.jpg,usable,usable,none,image is acceptable,133.95,0.2474,29.83,1.0417,0.005232,0.0,2009.38,1065.83,162.39,53.03,26.92
+IMG-20260526-WA0252.jpg,usable,usable,none,image is acceptable,129.31,0.2597,39.06,0.1183,0.008683,0.0,1614.73,1089.3,154.48,63.45,26.98
+IMG-20260526-WA0254.jpg,usable,usable,none,image is acceptable,129.32,0.1826,27.3,2.3746,0.004058,0.0,1853.1,820.76,164.97,46.33,21.28
+IMG-20260526-WA0259.jpg,usable,borderline,defocus,image is acceptable,32.44,0.2662,38.68,0.1576,0.006506,0.0,1381.57,907.87,151.02,52.06,30.46
+IMG-20260526-WA0270.jpg,usable,usable,none,image is acceptable,28.74,0.2635,38.61,0.1119,0.008204,0.0,1010.43,729.39,154.48,61.28,16.24
+IMG-20260526-WA0271.jpg,borderline,usable,none,image may be slightly blurry,27.64,0.1854,26.86,2.4235,0.003803,0.0,1192.35,541.66,164.98,44.24,12.91
+IMG-20260526-WA0273.jpg,usable,usable,none,image is acceptable,121.93,0.0838,36.67,0.9185,0.014965,0.0,2343.88,1097.27,77.19,44.06,47.11
+IMG-20260526-WA0275.jpg,usable,usable,none,image is acceptable,113.71,0.1714,37.3,0.1532,0.013639,0.0,1396.9,624.45,65.26,35.36,21.58
+IMG-20260526-WA0276.jpg,usable,usable,none,image is acceptable,26.97,0.2443,43.08,0.3002,0.007404,0.0,1502.02,763.68,153.28,59.66,21.61
+IMG-20260526-WA0278.jpg,retake,retake,glare,significant glare or overexposure,110.18,0.2349,32.88,3.1935,0.001632,0.7255,1292.14,492.94,236.38,31.16,18.01
+IMG-20260526-WA0281.jpg,usable,retake,partial_framing,image is acceptable,28.94,0.1234,28.47,0.1008,0.004264,0.0,1054.88,569.29,157.94,48.31,13.72
+IMG-20260526-WA0283.jpg,retake,retake,glare,significant glare or overexposure,102.39,0.1084,22.23,1.0669,0.000841,0.6977,247.16,119.01,240.21,22.23,3.31
+IMG-20260526-WA0285.jpg,usable,retake,partial_framing,image is acceptable,110.63,0.1443,46.87,0.3572,0.011357,0.0,2428.96,912.86,81.08,39.18,34.96
+IMG-20260526-WA0286.jpg,usable,retake,partial_framing,image is acceptable,27.71,0.14,26.59,0.328,0.003415,0.0,846.84,622.56,159.63,45.99,14.04
+IMG-20260526-WA0288.jpg,usable,retake,motion_blur,image is acceptable,134.23,0.2224,59.46,0.0947,0.01786,0.0,1788.53,860.31,114.43,70.63,26.9
+IMG-20260526-WA0289.jpg,borderline,retake,partial_framing,image may be slightly blurry; low contrast,28.01,0.1153,18.02,1.1097,0.007856,0.0,379.04,203.83,63.58,27.92,4.43
+IMG-20260526-WA0294.jpg,usable,retake,partial_framing,image is acceptable,124.35,0.1549,36.53,0.1892,0.004455,0.0,1784.97,1032.02,140.11,52.67,30.37
+IMG-20260526-WA0295.jpg,borderline,retake,motion_blur,image may be slightly blurry,130.07,0.1132,46.42,0.377,0.005108,0.0,548.44,255.41,116.03,38.43,7.27
+IMG-20260526-WA0296.jpg,usable,retake,motion_blur,image is acceptable,193.73,0.1568,29.23,0.0178,0.003722,0.0,672.51,466.39,134.26,41.32,16.43
+IMG-20260526-WA0297.jpg,usable,usable,none,image is acceptable,129.61,0.156,31.82,0.3972,0.006213,0.0047,1437.11,761.53,117.57,50.3,18.27
+IMG-20260526-WA0301.jpg,borderline,retake,motion_blur,image may be slightly blurry,104.66,0.1208,31.44,1.9979,0.002692,0.0,277.83,117.06,156.0,26.01,1.84
+IMG-20260526-WA0303.jpg,borderline,retake,motion_blur,image may be slightly blurry,113.31,0.0697,29.25,0.4799,0.002031,0.0,765.79,368.15,163.66,31.16,17.42
+IMG-20260526-WA0304.jpg,usable,borderline,glare,image is acceptable,26.3,0.164,37.58,0.0,0.01,0.0,3285.77,1314.31,149.49,55.35,39.43
+IMG-20260526-WA0305.jpg,usable,usable,none,image is acceptable,36.25,0.1234,52.08,0.0153,0.005834,0.0,3436.68,1411.84,149.81,50.12,49.16
+IMG-20260526-WA0306.jpg,usable,usable,none,image is acceptable,35.61,0.1121,41.81,0.5281,0.005535,0.0,2691.43,1382.51,142.31,49.65,41.94
+IMG-20260526-WA0307.jpg,usable,borderline,defocus,image is acceptable,32.0,0.168,41.35,1.095,0.005887,0.0,4304.95,1567.42,146.53,53.94,46.18
+IMG-20260526-WA0308.jpg,borderline,retake,motion_blur,image may be slightly blurry,33.9,0.0691,50.2,0.378,0.003753,0.0,1062.81,444.52,148.47,40.19,8.6
+IMG-20260526-WA0309.jpg,usable,retake,partial_framing,image is acceptable,34.59,0.1183,27.64,2.5902,0.004129,0.0,3398.76,1792.45,155.35,44.85,88.31
+IMG-20260526-WA0310.jpg,borderline,retake,motion_blur,image may be slightly blurry,32.44,0.0621,54.98,0.1132,0.00342,0.0,541.03,300.5,151.73,36.8,4.8
+IMG-20260526-WA0311.jpg,usable,borderline,defocus,image is acceptable,23.96,0.1132,45.37,0.0,0.01,0.0,4018.78,1607.51,145.07,56.42,48.23
+IMG-20260526-WA0312.jpg,usable,retake,defocus,image is acceptable,33.53,0.1272,48.63,0.5713,0.005527,0.0,2419.85,1056.69,138.45,50.31,34.61
+IMG-20260526-WA0313.jpg,borderline,borderline,defocus,image may be slightly blurry,32.76,0.0934,49.99,0.0526,0.004536,0.0001,1882.16,774.78,145.88,39.52,24.25
+IMG-20260526-WA0314.jpg,usable,usable,none,image is acceptable,34.27,0.2051,53.96,0.2363,0.006832,0.0,2130.5,1333.26,132.41,48.1,34.8
+IMG-20260526-WA0315.jpg,usable,usable,none,image is acceptable,27.18,0.2445,64.62,0.0,0.01,0.0,4068.22,1627.29,135.92,65.14,48.82
+IMG-20260526-WA0316.jpg,usable,usable,none,image is acceptable,34.77,0.1401,29.87,0.3498,0.005894,0.0,3192.9,1973.86,160.92,53.74,74.63
+IMG-20260526-WA0317.jpg,usable,usable,none,image is acceptable,25.13,0.2273,33.34,0.0,0.01,0.0,4436.27,1774.51,161.75,55.63,53.24
+IMG-20260526-WA0318.jpg,borderline,retake,motion_blur,image may be slightly blurry,33.77,0.0677,50.46,0.0108,0.003545,0.0,1352.53,439.51,147.15,36.22,12.57
+IMG-20260526-WA0319.jpg,usable,usable,none,image is acceptable,26.75,0.1832,48.12,0.0,0.01,0.0,4898.5,1959.4,152.31,58.65,58.78
+IMG-20260526-WA0320.jpg,usable,usable,none,image is acceptable,23.99,0.142,23.0,0.0,0.01,0.0,5648.25,2259.3,163.26,61.13,67.78
+IMG-20260526-WA0321.jpg,usable,usable,none,image is acceptable,22.49,0.151,38.53,0.0,0.01,0.0,5484.97,2193.99,147.17,60.83,65.82
+IMG-20260526-WA0322.jpg,usable,usable,none,image is acceptable,34.51,0.1046,46.25,0.2722,0.006867,0.0,2817.36,1449.27,139.22,54.77,44.94
+IMG-20260526-WA0323.jpg,usable,usable,none,image is acceptable,23.08,0.1703,21.81,0.0,0.01,0.0,5155.0,2062.0,159.03,58.59,61.86
+IMG-20260526-WA0324.jpg,usable,retake,motion_blur,image is acceptable,31.38,0.1995,25.52,0.8269,0.004399,0.0,1787.8,770.91,158.26,45.42,31.97
+IMG-20260526-WA0325.jpg,usable,retake,defocus,image is acceptable,23.55,0.0966,24.31,0.0,0.01,0.0,4641.1,1856.44,170.08,58.03,55.69
+IMG-20260526-WA0326.jpg,usable,retake,motion_blur,image is acceptable,34.09,0.1531,30.81,0.7261,0.004808,0.0,1373.81,794.83,152.25,49.17,15.64
+IMG-20260526-WA0327.jpg,borderline,retake,defocus,image may be slightly blurry,34.88,0.1383,25.91,2.3384,0.003288,0.0,1563.22,621.23,162.54,32.99,26.48
+IMG-20260526-WA0348.jpg,usable,usable,none,image is acceptable,129.11,0.2558,37.59,0.0,0.01,0.0,6838.83,2735.53,164.3,75.29,82.07
+IMG-20260526-WA0349.jpg,usable,usable,none,image is acceptable,127.72,0.1729,27.69,0.0,0.01,0.0,5447.1,2178.84,154.73,69.26,65.37
+IMG-20260526-WA0351.jpg,usable,usable,none,image is acceptable,134.08,0.1837,29.05,0.0,0.01,0.0,6489.3,2595.72,166.27,71.12,77.87
+IMG-20260526-WA0353.jpg,usable,usable,none,image is acceptable,129.77,0.1933,29.4,0.0,0.01,0.0,6167.0,2466.8,154.99,70.55,74.0
+IMG-20260526-WA0354.jpg,usable,usable,none,image is acceptable,138.01,0.2677,38.95,0.0,0.01,0.0,8390.05,3356.02,164.28,81.23,100.68
+IMG-20260526-WA0356.jpg,usable,usable,none,image is acceptable,139.4,0.2176,33.53,0.0,0.01,0.0,5110.5,2044.2,169.39,65.42,61.33
+IMG-20260526-WA0358.jpg,usable,usable,none,image is acceptable,133.54,0.1698,29.77,0.0,0.01,0.0,7495.15,2998.06,164.92,73.6,89.94
+IMG-20260526-WA0359.jpg,usable,usable,none,image is acceptable,133.94,0.2027,27.67,0.0,0.01,0.0,5257.78,2103.11,167.15,64.85,63.09
+IMG-20260526-WA0360.jpg,usable,usable,none,image is acceptable,132.78,0.1926,30.02,0.0,0.01,0.0,7022.85,2809.14,157.81,74.92,84.27
+IMG-20260526-WA0361.jpg,usable,usable,none,image is acceptable,127.71,0.1938,32.83,0.0,0.01,0.0,8236.4,3294.56,166.56,77.65,98.84
+IMG-20260526-WA0362.jpg,usable,usable,none,image is acceptable,132.82,0.1904,29.36,0.0,0.01,0.0,5637.83,2255.13,156.21,66.32,67.65
+IMG-20260526-WA0363.jpg,usable,usable,none,image is acceptable,134.32,0.1939,29.34,0.0,0.01,0.0,5081.18,2032.47,157.23,67.33,60.97
+IMG-20260526-WA0364.jpg,usable,usable,none,image is acceptable,136.23,0.1989,29.95,0.0,0.01,0.0,7391.98,2956.79,157.86,79.93,88.7
+IMG-20260526-WA0365.jpg,usable,usable,none,image is acceptable,131.59,0.1808,30.76,0.0,0.01,0.0,6127.22,2450.89,153.07,69.79,73.53
+IMG-20260526-WA0366.jpg,usable,usable,none,image is acceptable,130.65,0.1697,28.12,0.0,0.01,0.0,4681.73,1872.69,156.11,60.06,56.18
+IMG-20260526-WA0367.jpg,usable,usable,none,image is acceptable,133.31,0.1854,35.04,0.0,0.01,0.0,6303.6,2521.44,164.44,67.24,75.64
+IMG-20260526-WA0368.jpg,usable,usable,none,image is acceptable,131.27,0.173,34.02,0.0,0.01,0.0002,5487.12,2194.85,165.48,62.43,65.85
+IMG-20260526-WA0371.jpg,usable,borderline,motion_blur,image is acceptable,124.9,0.1186,25.57,0.3036,0.002424,0.057,3052.05,1287.89,205.73,51.16,38.17
+IMG-20260526-WA0372.jpg,usable,usable,none,image is acceptable,149.14,0.1913,25.87,0.206,0.011583,0.0,2068.02,1407.54,95.22,54.91,38.11
+IMG-20260526-WA0373.jpg,usable,usable,none,image is acceptable,118.27,0.1856,28.62,0.0,0.01,0.1022,5706.55,2282.62,215.53,69.56,68.48
+IMG-20260526-WA0374.jpg,usable,usable,none,image is acceptable,126.33,0.2687,40.78,0.8841,0.0073,0.0,2048.45,1143.03,132.98,58.83,28.97
+IMG-20260526-WA0375.jpg,usable,usable,none,image is acceptable,136.95,0.1127,25.98,0.9103,0.010233,0.0,1271.18,712.86,71.16,39.36,22.23
+IMG-20260526-WA0376.jpg,usable,usable,none,image is acceptable,123.26,0.1905,29.46,0.0,0.01,0.0713,5550.82,2220.33,212.07,69.18,66.61
+IMG-20260526-WA0377.jpg,usable,usable,none,image is acceptable,146.35,0.1785,21.75,0.4653,0.010705,0.0,1717.61,1046.86,82.77,45.52,29.57
+IMG-20260526-WA0378.jpg,borderline,usable,none,dim lighting,130.89,0.1138,13.85,0.3296,0.017436,0.0,794.27,519.39,45.43,34.03,13.39
+IMG-20260526-WA0379.jpg,usable,usable,none,image is acceptable,137.29,0.1438,24.25,0.794,0.014111,0.0,1402.43,925.62,67.81,45.72,26.26
+IMG-20260526-WA0380.jpg,usable,usable,none,image is acceptable,28.65,0.1068,25.66,0.8987,0.00953,0.0,790.29,456.05,71.16,37.23,13.31
+IMG-20260526-WA0381.jpg,usable,borderline,defocus,image is acceptable,27.83,0.2621,40.41,0.8653,0.006873,0.0,1333.43,767.13,132.98,56.32,18.37
+IMG-20260526-WA0382.jpg,borderline,usable,none,dim lighting,26.89,0.1043,13.39,0.3052,0.016064,0.0,510.67,334.52,45.45,32.05,7.76
+IMG-20260526-WA0383.jpg,usable,usable,none,image is acceptable,20.7,0.1864,27.65,0.0,0.01,0.0958,3699.28,1479.71,215.52,66.1,44.39
+IMG-20260526-WA0384.jpg,usable,retake,motion_blur,image is acceptable,27.04,0.1185,24.94,0.2817,0.002233,0.0547,1935.2,837.26,205.68,48.64,22.98
+IMG-20260526-WA0385.jpg,usable,usable,none,image is acceptable,19.62,0.1878,28.52,0.0,0.01,0.0676,3652.02,1460.81,212.05,65.7,43.82
+IMG-20260526-WA0386.jpg,usable,usable,none,image is acceptable,63.24,0.185,25.22,0.1912,0.01075,0.0,1325.68,925.71,95.22,51.98,22.88
+IMG-20260526-WA0392.jpg,usable,usable,none,image is acceptable,128.3,0.1535,20.81,2.6031,0.008523,0.0,2317.53,1401.47,98.84,46.99,39.46
+IMG-20260526-WA0393.jpg,borderline,usable,none,dim lighting,126.86,0.1253,14.42,0.09,0.011837,0.0,1003.02,558.75,57.29,32.99,16.99
+IMG-20260526-WA0395.jpg,usable,retake,motion_blur,image is acceptable,127.8,0.1143,22.83,0.6866,0.00806,0.0,574.05,372.13,81.74,33.56,4.92
+IMG-20260526-WA0396.jpg,borderline,retake,partial_framing,low contrast,114.56,0.1211,19.96,1.2079,0.001778,0.0268,2028.3,930.27,215.52,41.18,28.51
+IMG-20260526-WA0398.jpg,borderline,retake,motion_blur,image may be slightly blurry,119.97,0.1427,20.93,2.623,0.00137,0.0,298.94,158.2,212.57,30.07,5.88
+IMG-20260526-WA0399.jpg,borderline,usable,none,low contrast,127.1,0.1294,13.59,0.8402,0.011201,0.0,1149.73,755.84,66.25,37.8,22.97
+IMG-20260526-WA0401.jpg,usable,borderline,motion_blur,image is acceptable,135.06,0.1729,40.54,0.5199,0.004939,0.0,2270.71,1179.12,160.54,47.68,37.08
+IMG-20260526-WA0402.jpg,usable,retake,motion_blur,image is acceptable,131.3,0.1847,31.72,0.103,0.004195,0.0,1884.07,764.42,139.02,42.37,24.79
+IMG-20260526-WA0407.jpg,borderline,retake,motion_blur,image may be slightly blurry,113.25,0.1185,37.18,2.0993,0.000885,0.0496,198.52,83.23,201.5,26.06,1.58
+IMG-20260526-WA0408.jpg,usable,retake,motion_blur,image is acceptable,133.44,0.133,26.58,0.8882,0.004624,0.0,1873.8,862.58,151.91,54.53,24.08
+IMG-20260526-WA0411.jpg,usable,retake,motion_blur,image is acceptable,137.33,0.1698,36.9,0.582,0.004438,0.0,2470.16,943.64,150.75,47.93,28.35
+IMG-20260526-WA0412.jpg,usable,retake,defocus,image is acceptable,125.98,0.2402,31.42,0.0,0.01,0.0,3086.58,1234.63,165.66,58.52,37.04
+IMG20260526172955.jpg,borderline,usable,none,image may be slightly blurry,86.47,0.2683,33.34,0.8934,0.008514,0.0,508.29,246.98,85.32,32.9,8.27
+IMG20260526173022.jpg,usable,usable,none,image is acceptable,89.43,0.3314,49.19,0.6665,0.010532,0.0,1163.43,732.59,107.03,48.78,27.39
+IMG20260526173039.jpg,usable,usable,none,image is acceptable,86.78,0.1299,49.82,0.0,0.01,0.0,3057.07,1222.83,106.45,56.29,36.68
+IMG20260526173059.jpg,retake,retake,motion_blur,image is blurry (out of focus or motion blur),93.42,0.1085,40.79,0.3618,0.002126,0.0,49.47,22.34,112.29,21.63,0.42
+IMG20260526173115.jpg,usable,retake,partial_framing,image is acceptable,86.48,0.1029,35.73,1.2732,0.006248,0.0,870.91,356.11,99.04,32.28,13.54
+IMG20260526173126.jpg,borderline,retake,motion_blur,image may be slightly blurry,86.11,0.168,41.08,0.9631,0.006072,0.0,283.27,132.36,108.39,32.27,5.21
+IMG_20260526_104030720.jpg,usable,borderline,defocus,image is acceptable,78.21,0.1731,48.3,0.0,0.01,0.0,6184.35,2473.74,131.89,63.18,74.21
+IMG_20260526_104054756.jpg,usable,retake,defocus,image is acceptable,79.91,0.1525,42.51,0.0,0.01,0.0,7938.18,3175.27,155.75,83.07,95.26
+IMG_20260526_104116618.jpg,retake,borderline,glare,significant glare or overexposure,75.98,0.2324,38.75,1.4409,0.003039,0.7652,2799.58,1244.93,235.38,43.1,38.69
+IMG_20260526_104137883.jpg,retake,borderline,insufficient_lighting,insufficient lighting,67.42,0.0064,10.0,0.5201,0.014847,0.0,203.9,82.44,21.06,12.58,2.64
+IMG_20260526_104205750.jpg,retake,usable,none,insufficient lighting,67.84,0.0573,14.48,0.7337,0.011365,0.0,327.17,140.23,32.94,16.61,4.31
+IMG_20260526_104227226.jpg,retake,retake,defocus,image is blurry (out of focus or motion blur),67.74,0.0627,23.97,1.0516,0.005567,0.0,47.87,30.49,66.84,19.77,0.69
+IMG_20260526_104246210.jpg,usable,usable,none,image is acceptable,81.04,0.1336,22.27,0.5574,0.009636,0.0,990.15,503.15,69.99,33.82,14.47
+IMG_20260526_104325576.jpg,usable,retake,motion_blur,image is acceptable,77.56,0.1084,25.44,0.3189,0.0062,0.0,345.21,168.08,69.59,25.96,4.78
+IMG_20260526_104336482.jpg,retake,retake,motion_blur,image is blurry (out of focus or motion blur),65.22,0.0317,44.59,0.202,0.00101,0.0,44.99,22.83,145.09,16.68,0.67
+IMG_20260526_104347739.jpg,retake,retake,motion_blur,image is blurry (out of focus or motion blur),65.07,0.0319,23.74,0.5761,0.000706,0.0,35.05,16.38,140.2,12.83,0.39
+IMG_20260526_104401592.jpg,retake,retake,motion_blur,image is blurry (out of focus or motion blur),63.11,0.0287,19.87,0.7393,0.000554,0.0,18.86,11.95,138.5,11.19,0.47
+IMG_20260526_104406893.jpg,retake,retake,motion_blur,image is blurry (out of focus or motion blur),66.0,0.0211,16.58,1.9531,0.000636,0.0,26.54,13.81,142.09,11.33,0.38
+IMG_20260526_104411752.jpg,retake,retake,motion_blur,image is blurry (out of focus or motion blur),65.9,0.0077,19.11,0.4766,0.000347,0.0,12.23,7.57,133.57,9.11,0.25
+IMG_20260526_104437404.jpg,usable,borderline,defocus,image is acceptable,68.37,0.2252,29.4,0.439,0.008969,0.0,1999.79,949.25,127.67,56.18,41.21
+IMG_20260526_104441714.jpg,retake,retake,motion_blur,image is blurry (out of focus or motion blur),70.65,0.0067,29.05,0.1671,0.001129,0.0,19.17,10.56,120.65,12.06,0.38
+IMG_20260526_104454678.jpg,retake,retake,motion_blur,image is blurry (out of focus or motion blur),76.53,0.0282,44.63,0.3943,0.001294,0.0,36.59,25.65,124.23,17.22,1.13
+IMG_20260526_171646348.jpg,usable,retake,motion_blur,image is acceptable,119.36,0.1519,58.21,0.1533,0.006246,0.0103,2594.11,1057.57,140.76,50.76,45.63
+IMG_20260526_171714176.jpg,usable,borderline,defocus,image is acceptable,77.97,0.255,44.0,0.7873,0.006882,0.0001,1521.43,845.51,152.77,49.78,27.83
+IMG_20260526_171733919.jpg,retake,retake,defocus,image is blurry (out of focus or motion blur),72.45,0.1528,40.19,0.0621,0.003408,0.0004,53.34,29.2,144.96,26.12,0.66
+IMG_20260526_171742.jpg,borderline,usable,none,dim lighting,110.32,0.0814,21.13,0.4446,0.013573,0.0,1021.4,354.85,50.58,26.58,13.98
+IMG_20260526_171810.jpg,retake,retake,motion_blur,image is blurry (out of focus or motion blur),99.14,0.026,23.68,0.1242,0.006955,0.0,69.75,17.9,43.67,11.26,0.45
+IMG_20260526_171853.jpg,usable,borderline,partial_framing,image is acceptable,121.18,0.0973,53.15,0.1451,0.004915,0.0,1534.76,812.5,119.91,40.08,33.29
+IMG_20260526_171857.jpg,borderline,retake,defocus,image may be slightly blurry,109.3,0.0908,44.61,0.141,0.002683,0.0,504.23,249.34,148.9,33.42,9.07
+IMG_20260526_171956.jpg,usable,usable,none,image is acceptable,122.54,0.1368,52.42,0.0,0.01,0.0,3137.53,1255.01,117.26,57.43,37.65
+IMG_20260526_171958081.jpg,borderline,borderline,partial_framing,dim lighting,83.12,0.0442,25.57,0.5661,0.009979,0.0,678.51,328.47,51.9,28.17,11.91
+IMG_20260526_172009.jpg,usable,usable,none,image is acceptable,135.99,0.1938,31.92,0.0,0.01,0.0,9101.83,3640.73,108.54,107.63,109.22
+IMG_20260526_172014.jpg,retake,retake,motion_blur,image is blurry (out of focus or motion blur),135.48,0.0203,20.77,0.2438,0.000594,0.0,39.6,27.78,135.95,14.41,1.35
+IMG_20260526_172031707.jpg,retake,retake,defocus,image is blurry (out of focus or motion blur); insufficient lighting,83.98,0.005,5.86,1.0563,0.013459,0.0,8.93,5.02,12.26,4.76,0.2
+IMG_20260526_172104975.jpg,usable,usable,none,image is acceptable,85.55,0.1591,46.51,0.0,0.01,0.0028,5405.85,2162.34,160.95,56.17,64.87
+IMG_20260526_172112.jpg,usable,usable,none,image is acceptable,127.18,0.2714,45.34,0.0,0.01,0.0,4923.88,1969.55,114.4,66.68,59.09
+IMG_20260526_172112316.jpg,borderline,borderline,glare,image may be slightly blurry; some glare detected,65.83,0.0735,27.04,1.3107,0.001512,0.4593,848.05,357.64,227.02,34.56,11.99
+IMG_20260526_172137480.jpg,usable,retake,partial_framing,image is acceptable,101.45,0.0835,40.71,0.0847,0.004195,0.0272,2117.98,1000.54,156.89,41.44,35.98
+IMG_20260526_172151076.jpg,usable,retake,partial_framing,image is acceptable,107.45,0.2291,48.67,0.0,0.01,0.0144,7346.68,2938.67,171.46,77.14,88.16
+IMG_20260526_172153.jpg,borderline,borderline,partial_framing,image may be slightly blurry; dim lighting,97.59,0.0536,23.17,1.3873,0.006477,0.0,660.94,254.71,50.85,21.11,10.5
+IMG_20260526_172208889.jpg,usable,usable,none,image is acceptable,105.26,0.1307,42.32,0.0711,0.004813,0.0,3175.73,1651.63,168.83,52.77,55.14
+IMG_20260526_172210.jpg,borderline,borderline,partial_framing,dim lighting,132.58,0.0883,21.42,1.0703,0.012559,0.0,906.67,312.42,46.74,25.09,13.16
+IMG_20260526_172221075.jpg,retake,retake,defocus,image is blurry (out of focus or motion blur),80.39,0.2737,32.41,0.5624,0.002131,0.0,57.04,40.33,192.37,32.42,0.98
+IMG_20260526_172243.jpg,usable,retake,partial_framing,image is acceptable,126.98,0.1812,36.57,0.7561,0.00446,0.0,2904.19,975.58,153.58,43.44,45.76
+IMG_20260526_172245.jpg,borderline,retake,motion_blur,image may be slightly blurry,133.97,0.1631,34.97,0.7819,0.003233,0.0,689.2,253.87,151.2,33.26,12.12
+IMG_20260526_172252977.jpg,retake,retake,glare,image is blurry (out of focus or motion blur); significant glare or overexposure,57.65,0.1134,40.75,0.8783,0.00074,0.7208,73.89,33.15,228.89,15.24,0.85
+IMG_20260526_172311567.jpg,retake,borderline,insufficient_lighting,image is blurry (out of focus or motion blur); insufficient lighting,79.51,0.0295,11.05,0.0371,0.006411,0.0,91.47,52.46,30.37,9.47,1.69
+IMG_20260526_172317886.jpg,borderline,borderline,partial_framing,image may be slightly blurry,71.8,0.0501,23.3,0.666,0.006495,0.0,407.82,247.32,68.12,19.64,9.13
+IMG_20260526_172339247.jpg,usable,borderline,defocus,image is acceptable,86.91,0.1209,37.42,0.0,0.01,0.0016,3790.5,1516.2,187.1,63.07,45.49
+IMG_20260526_172418636.jpg,borderline,borderline,partial_framing,image may be slightly blurry; low contrast,85.24,0.0867,15.92,0.6042,0.005314,0.0,698.01,347.31,65.14,21.46,16.87
+IMG_20260526_172440971.jpg,retake,retake,insufficient_lighting,image is blurry (out of focus or motion blur); insufficient lighting,69.45,0.0087,7.87,0.1324,0.009307,0.0,61.17,33.35,16.79,8.01,1.53
+IMG_20260526_172447528.jpg,retake,retake,defocus,image is blurry (out of focus or motion blur); insufficient lighting,70.64,0.0109,9.11,1.2043,0.002472,0.0,5.15,3.86,21.26,4.94,0.17
+IMG_20260526_172454095.jpg,retake,retake,insufficient_lighting,image is blurry (out of focus or motion blur); insufficient lighting,86.92,0.0107,11.14,1.128,0.00805,0.0,61.34,25.04,19.87,7.56,1.07
+IMG_20260526_172457.jpg,borderline,retake,defocus,image may be slightly blurry,144.65,0.1383,55.45,0.1925,0.003548,0.0,479.08,232.02,108.84,30.45,7.98
+IMG_20260526_172502174.jpg,retake,retake,motion_blur,image is blurry (out of focus or motion blur),69.41,0.135,33.4,0.0449,0.00186,0.0069,49.85,22.49,143.72,14.62,0.53
+IMG_20260526_172513854.jpg,borderline,retake,partial_framing,image may be slightly blurry,88.81,0.1619,33.39,0.1548,0.001796,0.2628,1326.44,721.43,207.44,36.15,32.34
+IMG_20260526_172522449.jpg,retake,retake,motion_blur,image is blurry (out of focus or motion blur),69.43,0.0047,23.71,0.2167,0.000426,0.0,16.61,11.88,141.88,12.96,0.34
+IMG_20260526_172531.jpg,borderline,retake,partial_framing,image may be slightly blurry,105.53,0.0529,46.88,0.713,0.00244,0.0,849.35,354.91,126.8,22.46,16.91
+IMG_20260526_172613.jpg,borderline,borderline,defocus,image may be slightly blurry,119.34,0.1665,46.81,0.4209,0.005049,0.0,1107.64,565.46,118.34,35.41,25.52
+IMG_20260526_172621.jpg,borderline,retake,motion_blur,image may be slightly blurry,119.55,0.0808,38.27,0.694,0.002293,0.0,228.9,122.03,120.58,20.86,5.97
+IMG_20260526_172631569.jpg,retake,retake,insufficient_lighting,image is blurry (out of focus or motion blur); insufficient lighting,54.49,0.0,0.84,0.3486,0.00195,0.0,1.43,0.96,6.37,0.97,0.04
+IMG_20260526_172652534.jpg,retake,retake,insufficient_lighting,image is blurry (out of focus or motion blur); insufficient lighting,63.12,0.0,6.07,0.6574,0.001281,0.0,2.06,1.56,14.84,2.44,0.07
+IMG_20260526_172706842.jpg,retake,retake,insufficient_lighting,image is blurry (out of focus or motion blur); insufficient lighting,59.63,0.0005,7.57,0.1828,0.005014,0.0,17.56,5.93,17.11,5.0,0.18
+IMG_20260526_172717.jpg,borderline,retake,partial_framing,image may be slightly blurry,117.31,0.0757,43.41,0.993,0.002763,0.0,1150.89,531.53,134.23,28.41,19.56
+IMG_20260526_172722651.jpg,retake,retake,defocus,image is blurry (out of focus or motion blur); insufficient lighting,65.12,0.026,18.94,1.6559,0.002925,0.0,7.95,4.32,32.1,8.33,0.17
+IMG_20260526_172734461.jpg,retake,retake,defocus,image is blurry (out of focus or motion blur); insufficient lighting,55.31,0.0,7.84,0.0901,0.001945,0.0,3.68,1.9,18.05,3.17,0.08
+IMG_20260526_172810240.jpg,retake,retake,defocus,image is blurry (out of focus or motion blur),61.06,0.0232,23.69,0.1376,0.001466,0.0,4.6,3.61,48.68,7.77,0.14
+IMG_20260526_172817082.jpg,retake,retake,defocus,image is blurry (out of focus or motion blur),63.88,0.0276,24.57,0.601,0.001543,0.0,4.72,3.79,47.64,8.54,0.13
+IMG_20260526_172832199.jpg,borderline,usable,none,image may be slightly blurry; dim lighting,62.23,0.0959,25.36,0.75,0.010371,0.0,343.01,154.66,49.17,22.99,5.44
+IMG_20260526_172845351.jpg,retake,retake,defocus,image is blurry (out of focus or motion blur),60.56,0.021,25.61,1.1029,0.004285,0.0,14.66,8.19,45.22,14.99,0.26
+IMG_20260526_172900061.jpg,usable,usable,none,image is acceptable,65.55,0.1362,33.49,0.6274,0.00914,0.0,870.0,391.37,75.11,32.48,15.52
+IMG_20260526_172914044.jpg,usable,usable,none,image is acceptable,64.95,0.122,30.56,0.2646,0.008603,0.0,569.79,277.52,70.3,30.32,11.38
+IMG_20260526_172922660.jpg,usable,usable,none,image is acceptable,66.27,0.1436,37.89,0.2657,0.009276,0.0,396.2,173.67,66.05,28.27,6.22
+IMG_20260526_172937.jpg,usable,usable,none,image is acceptable,119.49,0.0714,44.69,0.3464,0.004642,0.0,1662.25,939.85,139.31,43.01,34.54

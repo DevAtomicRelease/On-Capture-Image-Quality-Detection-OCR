@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+results_v[1-5]*.csv
+results_v7*.csv
+results_v[1-5]*.json
+results_v7*.json
+walkthrough.md
+analyze_*.py
+LIVE_REVIEW_PREP.md
+histograms/*.png
+test_images/IMG*.jpg
+test_images/IMG-*.jpg
